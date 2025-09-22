@@ -22,4 +22,4 @@ voltado para o **cálculo de IMC**, **estimativa de gasto calórico diário** e 
 ## ⚙️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-nutricionista.git
+   git clone https://github.com/MatheusNeckel/Sistema-Nutricionista.git
